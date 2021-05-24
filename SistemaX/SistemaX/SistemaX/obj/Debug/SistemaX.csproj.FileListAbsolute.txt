@@ -35,3 +35,28 @@ C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\
 C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\sistemax v 1\SistemaX\SistemaX\obj\Debug\SistemaX.csproj.CopyComplete
 C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\sistemax v 1\SistemaX\SistemaX\obj\Debug\SistemaX.exe
 C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\sistemax v 1\SistemaX\SistemaX\obj\Debug\SistemaX.pdb
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\bin\Debug\SistemaX.exe.config
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\bin\Debug\SistemaX.exe.manifest
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\bin\Debug\SistemaX.application
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\bin\Debug\SistemaX.exe
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\bin\Debug\SistemaX.pdb
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\bin\Debug\Dapper.dll
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\bin\Debug\Dapper.xml
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.csprojAssemblyReference.cache
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.ProdutoInserirEditarForm.resources
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.ProdutoListarForm.resources
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.LoginForm.resources
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.Properties.Resources.resources
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.UsuarioInserirEditarForm.resources
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.CategoriaInserirEditarForm.resources
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.UsuariosListarForm.resources
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.CategoriaListarForm.resources
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.PrincipalForm.resources
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.TesteForm.resources
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.csproj.GenerateResource.cache
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.csproj.CoreCompileInputs.cache
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.exe.manifest
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.application
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.csproj.CopyComplete
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.exe
+C:\facudade\4 ano\7 período\TOPICOS E LINGUAGEM DE PROGRAMACAO\2B\AULAS PORTAL\sistemax\SistemaX\SistemaX\SistemaX\obj\Debug\SistemaX.pdb

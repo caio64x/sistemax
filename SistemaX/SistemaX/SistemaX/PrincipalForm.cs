@@ -58,7 +58,7 @@ namespace SistemaX
             {
 
                 loginToolStripButton.Text = "ENTRAR";
-             //   loginToolStripButton.Image = SistemaX.Properties.Resources.entrar;
+                loginToolStripButton.Image = SistemaX.Properties.Resources.entrar;
 
                 categoriasToolStripButton.Enabled = false;
                 produtosToolStripButton.Enabled = false;
@@ -72,7 +72,7 @@ namespace SistemaX
             else
             {
                 loginToolStripButton.Text = "SAIR";
-               // loginToolStripButton.Image = SistemaX.Properties.Resources.sair;
+               loginToolStripButton.Image = SistemaX.Properties.Resources.sair;
 
                 categoriasToolStripButton.Enabled = Compartilhada.UsuarioLogado.AcessaCategorias;
                 produtosToolStripButton.Enabled = Compartilhada.UsuarioLogado.AcessaProdutos;
