@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SistemaX.exe" size="68056">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SistemaX.exe" size="91096">
       <assemblyIdentity name="SistemaX" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WQ6vGZRU6CyzkIjVSl37XojAFzKF+QwBA2M69jlOwSA=</dsig:DigestValue>
+        <dsig:DigestValue>++rXrm0SFaBZhatYRBY8a2HWexpzDGREkwlf65oaLms=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

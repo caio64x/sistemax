@@ -35,7 +35,8 @@
             this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.categoriasToolStripButton = new System.Windows.Forms.ToolStripButton();
             this.produtosToolStripButton = new System.Windows.Forms.ToolStripButton();
-            this.usuariosToolStripButton = new System.Windows.Forms.ToolStripButton();
+            this.usuariostoolStripButton = new System.Windows.Forms.ToolStripButton();
+            this.vendasToolStripButton = new System.Windows.Forms.ToolStripButton();
             this.arquivoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cadastrosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.produtosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -60,7 +61,8 @@
             this.toolStripSeparator2,
             this.categoriasToolStripButton,
             this.produtosToolStripButton,
-            this.usuariosToolStripButton});
+            this.usuariostoolStripButton,
+            this.vendasToolStripButton});
             this.toolStrip1.Location = new System.Drawing.Point(0, 24);
             this.toolStrip1.Name = "toolStrip1";
             this.toolStrip1.Size = new System.Drawing.Size(800, 38);
@@ -106,15 +108,26 @@
             this.produtosToolStripButton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.produtosToolStripButton.Click += new System.EventHandler(this.produtosToolStripMenuItem_Click);
             // 
-            // usuariosToolStripButton
+            // usuariostoolStripButton
             // 
-            this.usuariosToolStripButton.Image = ((System.Drawing.Image)(resources.GetObject("usuariosToolStripButton.Image")));
-            this.usuariosToolStripButton.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.usuariosToolStripButton.Name = "usuariosToolStripButton";
-            this.usuariosToolStripButton.Size = new System.Drawing.Size(56, 35);
-            this.usuariosToolStripButton.Text = "Usuarios";
-            this.usuariosToolStripButton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.usuariosToolStripButton.Click += new System.EventHandler(this.usuariosToolStripMenuItem_Click);
+            this.usuariostoolStripButton.Image = ((System.Drawing.Image)(resources.GetObject("usuariostoolStripButton.Image")));
+            this.usuariostoolStripButton.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.usuariostoolStripButton.Name = "usuariostoolStripButton";
+            this.usuariostoolStripButton.Size = new System.Drawing.Size(56, 35);
+            this.usuariostoolStripButton.Text = "Usuarios";
+            this.usuariostoolStripButton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.usuariostoolStripButton.Click += new System.EventHandler(this.usuariosToolStripMenuItem_Click);
+            // 
+            // vendasToolStripButton
+            // 
+            this.vendasToolStripButton.Image = ((System.Drawing.Image)(resources.GetObject("vendasToolStripButton.Image")));
+            this.vendasToolStripButton.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.vendasToolStripButton.Name = "vendasToolStripButton";
+            this.vendasToolStripButton.Size = new System.Drawing.Size(48, 35);
+            this.vendasToolStripButton.Text = "Vendas";
+            this.vendasToolStripButton.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.vendasToolStripButton.ToolTipText = "Vendas";
+            this.vendasToolStripButton.Click += new System.EventHandler(this.vendasToolStripButton_Click);
             // 
             // arquivoToolStripMenuItem
             // 
@@ -236,7 +249,7 @@
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
         private System.Windows.Forms.ToolStripButton categoriasToolStripButton;
         private System.Windows.Forms.ToolStripButton produtosToolStripButton;
-        private System.Windows.Forms.ToolStripButton usuariosToolStripButton;
+        private System.Windows.Forms.ToolStripButton vendasToolStripButton;
         private System.Windows.Forms.ToolStripMenuItem arquivoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem cadastrosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem produtosToolStripMenuItem;
@@ -248,6 +261,7 @@
         private System.Windows.Forms.MenuStrip menuStrip2;
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStripStatusLabel usuarioToolStripStatusLabel;
+        private System.Windows.Forms.ToolStripButton usuariostoolStripButton;
     }
 }
 

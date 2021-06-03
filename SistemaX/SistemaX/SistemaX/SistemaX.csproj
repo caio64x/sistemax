@@ -74,6 +74,9 @@
   <PropertyGroup>
     <StartupObject>SistemaX.Program</StartupObject>
   </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Dapper.2.0.90\lib\net461\Dapper.dll</HintPath>
@@ -93,6 +96,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClientePesquisarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientePesquisarForm.Designer.cs">
+      <DependentUpon>ClientePesquisarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Negocios\DAL\ClienteDAO.cs" />
+    <Compile Include="Negocios\DAL\VendaDAO.cs" />
+    <Compile Include="Negocios\Mapeamento\Cliente.cs" />
+    <Compile Include="Negocios\Mapeamento\ItensGrid.cs" />
+    <Compile Include="Negocios\Mapeamento\Venda.cs" />
+    <Compile Include="Negocios\Mapeamento\VendaItem.cs" />
     <Compile Include="ProdutoInserirEditarForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -162,6 +177,15 @@
     <Compile Include="TesteForm.Designer.cs">
       <DependentUpon>TesteForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="VendaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendaForm.Designer.cs">
+      <DependentUpon>VendaForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ClientePesquisarForm.resx">
+      <DependentUpon>ClientePesquisarForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ProdutoInserirEditarForm.resx">
       <DependentUpon>ProdutoInserirEditarForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -193,6 +217,9 @@
     <EmbeddedResource Include="TesteForm.resx">
       <DependentUpon>TesteForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="VendaForm.resx">
+      <DependentUpon>VendaForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -204,6 +231,8 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <None Include="SistemaX.Negocios.Mapeamento.Categoria.datasource" />
+    <None Include="SistemaX.Negocios.Mapeamento.Cliente.datasource" />
+    <None Include="SistemaX.Negocios.Mapeamento.ItensGrid.datasource" />
     <None Include="SistemaX.Negocios.Mapeamento.Produto.datasource" />
     <None Include="SistemaX.Negocios.Mapeamento.Usuario.datasource" />
     <None Include="SistemaX_TemporaryKey.pfx" />

@@ -62,7 +62,7 @@ namespace SistemaX
 
                 categoriasToolStripButton.Enabled = false;
                 produtosToolStripButton.Enabled = false;
-                usuariosToolStripButton.Enabled = false;
+                vendasToolStripButton.Enabled = false;
 
                 produtosToolStripMenuItem.Enabled = false;
 
@@ -76,7 +76,7 @@ namespace SistemaX
 
                 categoriasToolStripButton.Enabled = Compartilhada.UsuarioLogado.AcessaCategorias;
                 produtosToolStripButton.Enabled = Compartilhada.UsuarioLogado.AcessaProdutos;
-                usuariosToolStripButton.Enabled = Compartilhada.UsuarioLogado.AcessaUsuarios;
+                vendasToolStripButton.Enabled = Compartilhada.UsuarioLogado.AcessaUsuarios;
 
                 categoriasToolStripMenuItem.Enabled = Compartilhada.UsuarioLogado.AcessaCategorias;
                 produtosToolStripMenuItem.Enabled = Compartilhada.UsuarioLogado.AcessaProdutos;
@@ -108,6 +108,15 @@ namespace SistemaX
 
             ValidarUsuario();
         }
+
+        private void vendasToolStripButton_Click(object sender, EventArgs e)
+        {
+            var form = new VendaForm();
+            form.MdiParent = this;
+            form.Show();
+        }
+
+        
     }
 
 }

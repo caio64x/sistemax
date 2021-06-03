@@ -10,5 +10,8 @@ namespace SistemaX
     public static class Compartilhada
     {
         public static Usuario UsuarioLogado { get; set; }
+
+
+        public static int IDCliente { get; set; }
     }
 }
